@@ -1,0 +1,19 @@
+.checkout-vnpay{
+    float: right;
+    margin-top: 20px;
+    padding: 6px 25px;
+    background-color: blue;
+    border-radius: 15px;
+ 
+    
+    
+}
+.checkout-vnpay a{
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+}
+.checkout-vnpay a:hover{
+    color: #fff;
+
+}

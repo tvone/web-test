@@ -1,0 +1,6 @@
+.add-category {
+   float: right;
+}
+.add-category input{
+    padding: 5px 10px;
+}
